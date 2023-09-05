@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 import Seo from "../../components/common/Seo";
-import Header10 from "../../components/header/header6";
+import Header10 from "../../components/header/header-6";
 import Hero10 from "../../components/hero/hero-10";
 import Link from "next/link";
 import Footer8 from "../../components/footer/footer-8";
